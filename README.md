@@ -1,6 +1,6 @@
 ### PRINCIPAL LANDMARKS MediaPipe face mesh
 
-The following landmarks are essential for facial analysis and are assigned to the corresponding anatomical regions in the MediaPipe face mesh.
+The following guide details the facial landmarks of the MediaPipe Face Mesh model. These points are a fundamental tool for the precise analysis of a face's 3D geometry, allowing for the tracking of facial expressions and the creation of real-time augmented reality experiences.
 
 #### EYEBROWS
 
@@ -64,7 +64,7 @@ _____________
 
 ### LANDMARKS PRINCIPALES (PRECISE_LANDMARKS)
 
-Los siguientes puntos de referencia son esenciales para el análisis facial y están asignados a las regiones anatómicas correspondientes en la malla facial de MediaPipe.
+Esta guía detalla los puntos de referencia faciales (landmarks) del modelo MediaPipe Face Mesh. Estos puntos son una herramienta fundamental para el análisis preciso de la geometría del rostro en 3D, permitiendo el seguimiento de expresiones faciales y la creación de experiencias de realidad aumentada en tiempo real.
 
 #### CEJAS (EYEBROWS)
 
